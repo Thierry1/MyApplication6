@@ -3,7 +3,7 @@ package com.example.t.myapplication6;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-//新添加一行代码 是是是是
+//新添加一行代码 是是是是试试哈哈哈哈
 public class MainActivity extends AppCompatActivity {
 
     @Override
